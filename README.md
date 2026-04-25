@@ -21,3 +21,5 @@ SkillBridge AI is an intelligent talent acquisition and upskilling agent designe
    ```bash
    git clone [https://github.com/Junaiduddin-dev/SkillBridge-AI.git](https://github.com/Junaiduddin-dev/SkillBridge-AI.git)
    cd SkillBridge-AI
+
+## **url**: https://junaiduddin-dev-skillbridge-ai-app-r94nvj.streamlit.app
